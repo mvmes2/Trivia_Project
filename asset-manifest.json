@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/Trivia_Project/static/css/main.0dff51b3.chunk.css",
-    "main.js": "/Trivia_Project/static/js/main.eb92e2f8.chunk.js",
-    "main.js.map": "/Trivia_Project/static/js/main.eb92e2f8.chunk.js.map",
-    "runtime-main.js": "/Trivia_Project/static/js/runtime-main.4fe085e2.js",
-    "runtime-main.js.map": "/Trivia_Project/static/js/runtime-main.4fe085e2.js.map",
-    "static/js/2.4bed0c89.chunk.js": "/Trivia_Project/static/js/2.4bed0c89.chunk.js",
-    "static/js/2.4bed0c89.chunk.js.map": "/Trivia_Project/static/js/2.4bed0c89.chunk.js.map",
+    "main.css": "/Trivia_Project/static/css/main.6a981d6f.chunk.css",
+    "main.js": "/Trivia_Project/static/js/main.5e678a7f.chunk.js",
+    "main.js.map": "/Trivia_Project/static/js/main.5e678a7f.chunk.js.map",
+    "runtime-main.js": "/Trivia_Project/static/js/runtime-main.ceb9b3b4.js",
+    "runtime-main.js.map": "/Trivia_Project/static/js/runtime-main.ceb9b3b4.js.map",
+    "static/js/2.812bc387.chunk.js": "/Trivia_Project/static/js/2.812bc387.chunk.js",
+    "static/js/2.812bc387.chunk.js.map": "/Trivia_Project/static/js/2.812bc387.chunk.js.map",
     "index.html": "/Trivia_Project/index.html",
-    "precache-manifest.ed95b085b1b13d29f895feb2accf71a0.js": "/Trivia_Project/precache-manifest.ed95b085b1b13d29f895feb2accf71a0.js",
+    "precache-manifest.ceef40a797aae9b1a7748e3ce892ebbc.js": "/Trivia_Project/precache-manifest.ceef40a797aae9b1a7748e3ce892ebbc.js",
     "service-worker.js": "/Trivia_Project/service-worker.js",
-    "static/css/main.0dff51b3.chunk.css.map": "/Trivia_Project/static/css/main.0dff51b3.chunk.css.map",
-    "static/js/2.4bed0c89.chunk.js.LICENSE": "/Trivia_Project/static/js/2.4bed0c89.chunk.js.LICENSE",
+    "static/css/main.6a981d6f.chunk.css.map": "/Trivia_Project/static/css/main.6a981d6f.chunk.css.map",
+    "static/js/2.812bc387.chunk.js.LICENSE": "/Trivia_Project/static/js/2.812bc387.chunk.js.LICENSE",
     "static/media/Errou.mp3": "/Trivia_Project/static/media/Errou.4ba5d393.mp3",
     "static/media/ShowDoMilhaoTheme.mp3": "/Trivia_Project/static/media/ShowDoMilhaoTheme.2bb4c1b0.mp3",
     "static/media/about.png": "/Trivia_Project/static/media/about.61586ca6.png",
@@ -29,9 +29,9 @@
     "static/media/trophy_1.png": "/Trivia_Project/static/media/trophy_1.b133f3ea.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.4fe085e2.js",
-    "static/js/2.4bed0c89.chunk.js",
-    "static/css/main.0dff51b3.chunk.css",
-    "static/js/main.eb92e2f8.chunk.js"
+    "static/js/runtime-main.ceb9b3b4.js",
+    "static/js/2.812bc387.chunk.js",
+    "static/css/main.6a981d6f.chunk.css",
+    "static/js/main.5e678a7f.chunk.js"
   ]
 }
